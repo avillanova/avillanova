@@ -5,9 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avillanova&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
   
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!--
 **avillanova/avillanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
