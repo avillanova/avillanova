@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div style="display: inline_block">
   <a href="https://github.com/avillanova">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avillanova&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avillanova&layout=compact&langs_count=16&theme=codeSTACKr"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avillanova&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avillanova&layout=compact&langs_count=16"/>
+</div>  
   
 ![Snake animation](https://github.com/avillanova/avillanova/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/avillanova/avillanova/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
