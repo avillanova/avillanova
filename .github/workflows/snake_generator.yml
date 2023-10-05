@@ -16,6 +16,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      actions: write
+      checks: read
+      contents: read
+      deployments: write
+      id-token: read
+      packages: write
+      pull-requests: read
+      repository-projects: read
+      security-events: read
+      statuses: read
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
